@@ -1,0 +1,58 @@
+/* STYLES FOR MY RESUME */
+
+/*fonts and styles for body sections*/
+body {
+    font-family:'Open Sans', Arial, sans-serif;
+    font-size: 1em;
+    color: #444;
+    font-weight: 400;
+}
+
+/* for titles */
+h1 {
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* prof. picture */
+img {
+    display: none;
+}
+
+/* for my bold sections*/
+b {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #33485e;
+}
+
+/*section titles*/
+h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    color: white;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: 400;
+}
+
+/* for the bulleted lists*/
+ul li {
+    font-size: 1em;
+}
