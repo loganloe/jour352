@@ -1,0 +1,49 @@
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#masthead {
+    max-width: 900px;
+    text-align: center;
+}
+
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+h1 {
+    font-family: helvetica, sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: georgia, serif;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+blockquote {
+    font-family: helvetica, sans-serif;
+    font-size: 2em;
+    background-color: grey;
+    width: 40%;
+    font-style: italic;
+}
+
+.images figcaption {
+    font-size: 10px;
+    font-style: italic;
+}
+
+.graphic figcaption{
+    font-size: 12px;
+    font-style: italic;
+    text-align:center;
+}
