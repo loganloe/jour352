@@ -1,0 +1,106 @@
+/*page topper*/
+.navbar {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.py-5 {
+    font-display: white;
+}
+
+.transbox {
+    background-color: #fff;
+    border: 1px solid;
+    opacity: 0.6;
+
+}
+
+
+.bio {
+    margin: 45px;
+    color: #000000;
+  }
+
+.background {
+    background: wheat;
+    margin: 0 auto;
+}
+
+/*Font Rules in Resume*/
+.organization {
+    color: cadetblue;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.jobtitle {
+    font-weight: bold;
+}
+
+.date {
+    font-weight: lighter;
+}
+
+.btn {
+    background-color: cadetblue;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.display-5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5rem;
+    color: wheat;
+    float: top;
+}
+
+/*Creative Work Page Styles*/
+.carouselExampleDark {
+    size: 40%;
+    margin-top: 50px;
+    border: 5px solid;
+    border-color: cadetblue;
+}
+
+.cards {
+    padding-right: 15px;
+    margin: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+    background-image: 
+      url("cover-photo.jpg");
+      background-size: cover;
+      height: 100vh;
+     
+    }
+
+.navbar-toggler {
+    background-color:darkslateblue;
+}
+
+.fa {
+    color: wheat;
+    font-size: 35px;
+    padding: 3px;
+}
+
+.link {
+    color: cadetblue;
+}
+
+.heading {
+    text-align: center;
+}
+
