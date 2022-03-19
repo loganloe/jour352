@@ -78,12 +78,6 @@ h2 {
     font-family: 'Raleway', sans-serif;
 }
 
-.jumbotron {
-    background-image: 
-      url("cover-photo.jpg");
-      background-size: cover;
-      height: 100vh;
-    }
 
 .navbar-toggler {
     background-color:darkslateblue;
