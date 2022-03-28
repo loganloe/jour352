@@ -1,0 +1,79 @@
+/* Above Story Content*/
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+
+#byline {
+    font-weight: 50;
+    font-size: 1.3em;
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+
+
+/*story content*/
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    color:rgb(131, 107, 46)
+}
+
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+figcaption {
+    font-size: 10px;
+    font-style: italic;
+}
+
+blockquote {
+    padding: 20px;
+    float: right;
+    font-size: 19px;
+    font-weight: bolder;
+    background-color:rgb(131, 107, 46);
+}
+
+
+
+.infographic {
+    border: solid;
+    border-width: 10px;
+    border-color: rgb(131, 107, 46);
+}
+
+.row figcaption {
+    font-size: 10px;
+    font-style: italic;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+  }
+
+  .footer {
+      background-color:rgb(156, 131, 68);
+      padding: 20px;
+  }
+
+  ul {
+    font-family: Helvetica, Arial, sans-serif;
+}
